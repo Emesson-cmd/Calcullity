@@ -2,6 +2,10 @@
 
 Este projeto se trata de um aplicativo de calculadora. É uma aplicação desenvolvida utilizando o React Native.
 
+![Calcullity](https://user-images.githubusercontent.com/80784767/184250038-138de505-8117-4660-8c11-da3270af198a.png)
+
+![Calcullity_02](https://user-images.githubusercontent.com/80784767/184250047-10e99ac0-d718-4978-8bd4-f64f10c124e1.png)
+
 ## Funcionalidades
 
 Faça as seguintes operações:
